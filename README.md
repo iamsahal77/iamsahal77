@@ -1,89 +1,66 @@
-<!-- Profile Banner -->
+<!-- README.md -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.gif" alt="Sahal KV - MERN Stack Developer" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=700&center=true&vCenter=true&lines=Hey+there+%F0%9F%91%8B+I'm+Sahal+KV;MERN+Stack+Developer+%7C+Tech+Explorer+%7C+Problem+Solver;Building+Dreams+into+Code+%F0%9F%9A%80;Welcome+to+My+World+of+Code!" alt="Typing SVG" />
 </p>
 
-<!-- Headline -->
-<h1 align="center">Hi 👋, I'm <span style="color:#4A90E2;">Sahal KV</span></h1>
-<h3 align="center">🚀 MERN Stack Developer | Problem Solver | Tech Explorer</h3>
-
-<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4A90E2&width=600&center=true&vCenter=true&lines=Turning+Ideas+into+Interactive+Web+Apps;MERN+Stack+Enthusiast+💻;Learning+Relentlessly+🚀;" alt="Typing SVG" />
-</p>
-
-<!-- Quote -->
-<blockquote align="center">
-  <i>💡 "Consistency is what transforms average into excellence."</i>
-</blockquote>
-
----
-
-<!-- About Me Section -->
-<h2>🧠 About Me</h2>
-
-<ul>
-  <li>🎯 Currently diving deep into the MERN full-stack ecosystem</li>
-  <li>💻 Building scalable full-stack web apps</li>
-  <li>🧩 Passionate about system design & clean code</li>
-  <li>📚 Lifelong learner chasing excellence</li>
-</ul>
-
----
-
-<!-- Tech Stack -->
-<h2>🧰 My Tech Toolbox</h2>
-
-<p>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6" />
-  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB" />
-  <img src="https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&color=764ABC" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" />
-  <img src="https://img.shields.io/badge/API-Express-informational?style=flat&logo=express&color=000000" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032" />
-  <img src="https://img.shields.io/badge/UI-Figma-informational?style=flat&logo=figma&color=F24E1E" />
+  <img src="https://i.imgur.com/nfHhEiO.png" alt="Sahal KV Banner" width="100%" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" height="170px" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" />
+  I'm <strong>Sahal KV</strong>, a passionate Full Stack Developer skilled in the <strong>MERN Stack</strong>.<br>
+  I love transforming ideas into beautiful, scalable web experiences.<br>
+  Constantly learning, improving, and building something awesome every day.
 </p>
 
 ---
 
-<!-- Contact -->
-<h2>🌐 Connect with Me</h2>
+<h2 align="center">🛠️ My Tech Toolbox</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=web&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mongodb,git,github,figma,postman,vscode" />
 </p>
 
 ---
 
-<!-- Footer -->
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahalkv&show_icons=true&theme=radical&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahalkv&layout=compact&theme=radical" height="160px"/>
 </p>
 
 <p align="center">
-  <strong>Let’s build something extraordinary. One line of code at a time. 🚀</strong>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahalkv&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahalkv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sahalkvdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<h2 align="center">💬 Quote That Drives Me</h2>
+
+<p align="center">
+  <em>"Consistency is what transforms average into excellence."</em><br>
+  <strong>— Sahal KV</strong>
+</p>
+
+---
+
+<h2 align="center">⚡ Let's Build The Future Together</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFAB&width=600&lines=One+line+of+code+at+a+time...;Crafting+magic+on+the+web+%F0%9F%94%A5;Let's+collaborate%2C+innovate%2C+and+build+%F0%9F%9A%80" />
 </p>
