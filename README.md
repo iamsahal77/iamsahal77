@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" style="border-radius: 50%" />
+<img src="https://avatars.githubusercontent.com/u/116473073" width="150" style="border-radius: 50%" />
 
 # 👋 Hey there, I'm Sahal KV  
 ### 🚀 MERN Stack Developer | Problem Solver | Tech Explorer  
