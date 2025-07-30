@@ -1,28 +1,37 @@
 <!-- README.md -->
 
-<div align="center">
+<!-- Typing header -->
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=700&center=true&vCenter=true&lines=Hey+there+%F0%9F%91%8B+I'm+Sahal+KV;Web+Developer+%7C+Tech+Explorer+%7C+Problem+Solver;Building+Dreams+into+Code+%F0%9F%9A%80;Welcome+to+My+World+of+Code!" alt="Typing SVG" />
-</div>
+</p>
 
+<!-- Side-by-side layout -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 2rem; margin-top: 2rem;">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
-    alt="Sahal KV Banner" 
-    style="max-width: 400px; height: auto; border-radius: 10px;"
-  />
-  
-  <div style="max-width: 500px;">
+
+  <!-- Left: Text -->
+  <div style="flex: 1; min-width: 300px; max-width: 500px;">
     <h2>🚀 About Me</h2>
     <p>
       I'm <strong>Sahal KV</strong>, a passionate Full Stack Developer skilled in the <strong>MERN Stack</strong>.<br>
       I love transforming ideas into beautiful, scalable web experiences.<br>
       Constantly learning, improving, and building something awesome every day.
     </p>
-
     <h2>🛠️ My Tech Toolbox</h2>
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mongodb,git,github,figma,postman,vscode" alt="Tech Stack" />
+    <p>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mongodb,git,github,figma,postman,vscode" alt="Tech Stack" />
+    </p>
+  </div>
+
+  <!-- Right: Banner -->
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img 
+      src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
+      alt="Sahal KV Banner" 
+      style="max-width: 100%; height: auto; border-radius: 12px;"
+    />
   </div>
 </div>
+
 
 
 ---
