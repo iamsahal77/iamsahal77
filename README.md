@@ -4,32 +4,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=700&center=true&vCenter=true&lines=Hey+there+%F0%9F%91%8B+I'm+Sahal+KV;Web+Developer+%7C+Tech+Explorer+%7C+Problem+Solver;Building+Dreams+into+Code+%F0%9F%9A%80;Welcome+to+My+World+of+Code!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-<img 
-  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
-  alt="Sahal KV Banner" 
-  style="width: 100%; max-width: 1000px; height: auto; max-height: 250px; object-fit: cover; display: block; margin: 0 auto;" 
-/>
+<table>
+  <tr>
+    <td width="50%">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
+        alt="Sahal KV Banner" 
+        style="width: 100%; max-width: 450px; height: auto; border-radius: 10px;" 
+      />
+    </td>
+    <td>
+      <h2>🚀 About Me</h2>
+      <p>
+        I'm <strong>Sahal KV</strong>, a passionate Full Stack Developer skilled in the <strong>MERN Stack</strong>.<br>
+        I love transforming ideas into beautiful, scalable web experiences.<br>
+        Constantly learning, improving, and building something awesome every day.
+      </p>
 
-</p>
-
----
-
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  I'm <strong>Sahal KV</strong>, a passionate Full Stack Developer skilled in the <strong>MERN Stack</strong>.<br>
-  I love transforming ideas into beautiful, scalable web experiences.<br>
-  Constantly learning, improving, and building something awesome every day.
-</p>
-
----
-
-<h2 align="center">🛠️ My Tech Toolbox</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mongodb,git,github,figma,postman,vscode" />
-</p>
+      <h2>🛠️ My Tech Toolbox</h2>
+      <p>
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mongodb,git,github,figma,postman,vscode" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -69,3 +67,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFAB&width=600&lines=One+line+of+code+at+a+time...;Crafting+magic+on+the+web+%F0%9F%94%A5;Let's+collaborate%2C+innovate%2C+and+build+%F0%9F%9A%80" />
 </p>
+
