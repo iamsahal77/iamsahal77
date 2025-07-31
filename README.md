@@ -30,12 +30,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahalkv&show_icons=true&theme=radical&count_private=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahalkv&layout=compact&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamsahal77&show_icons=true&theme=radical&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsahal77&layout=compact&theme=radical" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahalkv&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsahal77&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -54,7 +54,6 @@
 
 <p align="center">
   <em>"Consistency is what transforms average into excellence."</em><br>
-  <strong>— Sahal KV</strong>
 </p>
 
 ---
