@@ -21,7 +21,6 @@
         I love transforming ideas into beautiful, scalable web experiences.<br>
         Constantly learning, improving, and building something awesome every day.
       </p>
-
       <h2>🛠️ My Tech Toolbox</h2>
       <p>
         <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,mongodb,git,github,figma,postman,vscode" />
