@@ -12,9 +12,7 @@
   <div style="flex: 1; min-width: 300px; max-width: 500px;">
     <h2>🚀 About Me</h2>
     <p>
-      I'm <strong>Sahal KV</strong>, a passionate Full Stack Developer skilled in the <strong>MERN Stack</strong>.
-      I love transforming ideas into beautiful, scalable web experiences.
-      Constantly learning, improving, and building something awesome every day.
+      I'm <strong>Sahal KV</strong>, Full-Stack Developer with hands-on experience crafting dynamic front-end interfaces and robust back-end solutions. I turn ideas into seamless experiences and complexity into clarity—building with purpose, adapting quickly, and thriving where code meets creativity.
     </p>
     <h2>🛠️ My Tech Toolbox</h2>
     <p>
