@@ -1,3 +1,4 @@
+
 <!-- README.md -->
 
 <p align="center">
@@ -13,7 +14,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm <strong>Sahal KV</strong>, Full-Stack Developer with experienced in crafting dynamic front-end interfaces and robust back-end solutions.I turn ideas into experiences and complexity into clarity, I build with purpose, adapt with speed, and thrive where code meets creativity..
+  I'm <strong>Sahal KV</strong>, a Full-Stack Developer experienced in crafting dynamic front-end interfaces and robust back-end solutions. I turn ideas into seamless experiences and complexity into clarity. I build with purpose, adapt with speed, and thrive where code meets creativity.
 </p>
 
 ---
@@ -44,6 +45,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sahalkv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sahalkvdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://sahalkv.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
 
 ---
@@ -62,3 +64,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFAB&width=600&lines=One+line+of+code+at+a+time...;Crafting+magic+on+the+web+%F0%9F%94%A5;Let's+collaborate%2C+innovate%2C+and+build+%F0%9F%9A%80" />
 </p>
+
