@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=700&center=true&vCenter=true&lines=Hey+there+%F0%9F%91%8B+I'm+Sahal+KV;MERN+Stack+Developer+%7C+Tech+Explorer+%7C+Problem+Solver;Building+Dreams+into+Code+%F0%9F%9A%80;Welcome+to+My+World+of+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&width=700&center=true&vCenter=true&lines=Hey+there+%F0%9F%91%8B+I'm+Sahal+KV;Full+Stack+Developer+%7C+Tech+Explorer+%7C+Problem+Solver;Building+Dreams+into+Code+%F0%9F%9A%80;Welcome+to+My+World+of+Code!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,9 +13,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm <strong>Sahal KV</strong>, a passionate Full Stack Developer skilled in the <strong>MERN Stack</strong>.<br>
-  I love transforming ideas into beautiful, scalable web experiences.<br>
-  Constantly learning, improving, and building something awesome every day.
+  I'm <strong>Sahal KV</strong>, Full-Stack Developer with experienced in crafting dynamic front-end interfaces and robust back-end solutions.I turn ideas into experiences and complexity into clarity, I build with purpose, adapt with speed, and thrive where code meets creativity..
 </p>
 
 ---
