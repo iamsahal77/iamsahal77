@@ -65,4 +65,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFAB&width=600&lines=One+line+of+code+at+a+time...;Crafting+magic+on+the+web+%F0%9F%94%A5;Let's+collaborate%2C+innovate%2C+and+build+%F0%9F%9A%80" />
 </p>
-
